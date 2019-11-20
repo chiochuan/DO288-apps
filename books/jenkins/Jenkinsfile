@@ -10,8 +10,8 @@ pipeline {
     }
 
     environment {
-        DEV_PROJECT = "chiochuan-ooi-singtel-com-books-dev"
-        STAGE_PROJECT = "chiochuan-ooi-singtel-com-books-stage"
+        DEV_PROJECT = "chiochuan-ooi-singtel-com-book-dev"
+        STAGE_PROJECT = "chiochuan-ooi-singtel-com-book-stage"
         APP_GIT_URL = "https://github.com/chiochuan/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.ocp-ap1.prod.nextcle.com/repository/nodejs"
 
